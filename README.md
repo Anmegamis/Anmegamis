@@ -1,3 +1,5 @@
 <h1 align="center">Привет, я Анастасия</a>☀️
 <h3 align="center">Аналитик данных из Санкт-Петербурга</h3>
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anastakuzz)
+<a href="https://t.me/anastakuzz">
+    <img height="100" width="100" src="https://raw.githubusercontent.com/Anmegamis/Anmegamis/main/telegram.svg" alt="Telegram">
+</a>
