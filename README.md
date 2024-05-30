@@ -2,9 +2,9 @@
 <h3 align="center">Аналитик данных из Санкт-Петербурга</h3>
 <div align="center">
     <a href="https://t.me/anastakuzz">
-        <img height="20" width="75" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        <img height="50" width="50" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram">
     </a>
     <a href="mailto:anmegamis@gmail.com">
-        <img height="20" width="75" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        <img height="50" width="50" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email">
     </a>
 </div>
